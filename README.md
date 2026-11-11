@@ -1,6 +1,3 @@
-project status: In progress
-
-
 # GitHub Guide for Students
 
 ## About This Project
